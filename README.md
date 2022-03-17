@@ -9,7 +9,7 @@
 - very simply file download using python requests and downloading progress bar
 - sometimes you can't see it if you try to find it when you need
 - use the python requests library
-- no additional library
+- no more additional library
  
 # Documentation
 
